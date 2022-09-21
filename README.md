@@ -1,6 +1,6 @@
 # Clean Code
 
-This repository holds the code examples and snapshots as well as any other resources belonging to our ["Clean Code" course](https://acad.link/clean-code).
+This repository holds the code examples and snapshots as well as any other resources belonging to our ["Clean Code" course](https://acad.link/clean-code) and this project will be written in Python entirely.
 
 # How To Use
 
